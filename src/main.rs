@@ -46,7 +46,7 @@ fn main () {
             outputs: vec![
                 transaction::Output {
                     to_addr: "Alice".to_owned(),
-                    value: 360,
+                    value: 3,
                 },
                 transaction::Output {
                     to_addr: "Bob".to_owned(),
